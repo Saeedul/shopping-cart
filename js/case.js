@@ -1,3 +1,3 @@
 document.getElementById('btn-case-plus').addEventListener('click', function () {
-    console.log('case btn clicked');
+    console.log('plus case btn clicked');
 })
